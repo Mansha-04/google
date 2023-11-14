@@ -1,0 +1,27 @@
+.b2{display: inline-block;}
+header{text-align: right;
+    margin-top: 20px;
+    font-size: large;}
+#b1{text-align: right;
+    background-color: blue;
+    color:white;}
+.link{text-decoration: none;
+  color:black;}
+img{margin-left: auto;
+    margin-right: auto;}
+body{text-align: center;}
+
+.p{
+    color:black;
+    margin-top: 20px;
+    display:inline;
+}
+.b2{border: none;
+    background-color: white;
+    font-size: 15px;}
+.b2:hover{border: 1cap solid black;}
+#input{width: 500px;
+       height: 40px;
+       border-radius: 25px;
+       border-color: rgb(60, 60, 60);}
+a{display: inline-block;}
